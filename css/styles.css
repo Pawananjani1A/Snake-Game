@@ -1,0 +1,16 @@
+div
+{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    margin: 10px;
+}
+
+#mycanvas
+{
+    width: 800px;
+    height: 400px;
+    background-color: black;
+    border: 5px solid orange;
+    margin:50px;
+}
